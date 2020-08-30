@@ -247,7 +247,7 @@ footer {
 	font-size: 16px;
 	color: #FAFAFA;
 }
-@media screen and (max-width:425px) {
+@media screen and (max-width:767px) {
 	header {
 		height: 50px;
 		position: relative;
@@ -337,6 +337,9 @@ footer {
 	margin: 0 auto;
 	margin-right: 0px;
 }
+.feature-word {
+	text-align: center;
+}
 .profile {
 	width: 90%;
 }
@@ -352,6 +355,10 @@ footer {
 }
 .contact {
 	width: 90%;
+}
+.contact-item {
+	margin: 0 auto;
+	float: none;
 }
 .tel {
 	margin-bottom: 30px;
