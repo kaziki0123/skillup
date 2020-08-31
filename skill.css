@@ -150,7 +150,16 @@ header {
 	text-align: center;
 	font-size: 60px;
 }
-
+.fa-atlassian {
+	display: block;
+	text-align: center;
+	font-size: 60px;
+}
+.fa-award {
+	display: block;
+	text-align: center;
+	font-size: 60px;
+}
 .strength {
 	text-align: center;
 	padding: 10px 0;
@@ -217,7 +226,7 @@ header {
 	margin-bottom: 5px;
 }
 .mail {
-	margin: 20px;
+	margin-bottom: 20px;
 }
 .contact-tel {
 	font-size: 20px;
@@ -361,7 +370,7 @@ footer {
 	float: none;
 }
 .tel {
-	margin-bottom: 30px;
+	margin-bottom: 20px;
 }
 .menu {
 	display: block;
@@ -392,4 +401,13 @@ footer {
 	border-bottom: solid 2px white;
 	width: 30px;
 	margin-bottom: 12px;
+}
+.social i {
+	margin-right: 8px;
+}
+.fa-atlassian {
+	margin-top: 10px;
+}
+.fa-award {
+	margin-top: 10px;
 }
